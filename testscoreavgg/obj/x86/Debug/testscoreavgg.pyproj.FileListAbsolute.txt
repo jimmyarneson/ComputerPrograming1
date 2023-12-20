@@ -1,0 +1,14 @@
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\testscoreavgg.exe.config
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\testscoreavgg.exe
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\testscoreavgg.dll
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\IronPython.dll
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\IronPython.Modules.dll
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\Microsoft.Scripting.dll
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\IronPython.xml
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\bin\Debug\IronPython.Modules.xml
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\obj\x86\Debug\testscoreavgg.pyprojResolveAssemblyReference.cache
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\obj\x86\Debug\testscoreavgg.MainForm.resources
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\obj\x86\Debug\testscoreavgg.pyproj.GenerateResource.Cache
+C:\Users\arneson.j1\Desktop\Programming-1\testscoreavgg\obj\x86\Debug\testscoreavgg.exe

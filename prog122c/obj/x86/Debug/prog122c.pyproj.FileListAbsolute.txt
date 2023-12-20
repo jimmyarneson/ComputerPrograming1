@@ -1,0 +1,14 @@
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\obj\x86\Debug\prog122c.pyprojResolveAssemblyReference.cache
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\obj\x86\Debug\prog122c.MainForm.resources
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\obj\x86\Debug\prog122c.pyproj.GenerateResource.Cache
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\prog122c.exe.config
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\prog122c.exe
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\prog122c.dll
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\IronPython.dll
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\IronPython.Modules.dll
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\IronPython.xml
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\bin\Debug\IronPython.Modules.xml
+C:\Users\arneson.j1\Desktop\Programming-1\prog122c\obj\x86\Debug\prog122c.exe

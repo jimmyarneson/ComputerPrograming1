@@ -1,0 +1,14 @@
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\obj\x86\Debug\slotmachine.pyprojResolveAssemblyReference.cache
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\obj\x86\Debug\slotmachine.MainForm.resources
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\obj\x86\Debug\slotmachine.pyproj.GenerateResource.Cache
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\slotmachine.exe.config
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\slotmachine.exe
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\slotmachine.dll
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\IronPython.dll
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\IronPython.Modules.dll
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\Microsoft.Scripting.dll
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\IronPython.xml
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\bin\Debug\IronPython.Modules.xml
+C:\Users\arneson.j1\Desktop\Programming-1\slotmachine\obj\x86\Debug\slotmachine.exe
